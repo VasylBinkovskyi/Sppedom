@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include "GyverEncoder.h"
 #define CLK 6
 #define DT 5
